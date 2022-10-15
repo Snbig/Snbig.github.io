@@ -1,0 +1,1554 @@
+
+
+table.dg td.FormField, .dg tr.DGItem td, .dg tr.DGAlt td {
+    border: 1px solid #ccc;
+    font-size: 12px;
+    line-height: 1.5;
+    text-align: center;
+    vertical-align: middle;
+    color: rgb(100,100,100);
+    /*    border-left:none; */
+}
+
+table.AlphabeticSearch {
+    width: 100%;
+    margin: 8px 0px;
+    display: block;
+}
+
+tr.dynamic-form-tr:hover .dynamic-form-textbox {
+    border-color: #00c0ff;
+}
+
+table.dg li.ListData span.FormCaption {
+    font-size: 11px;
+    font-weight: bold;
+}
+
+tr.dynamic-form-tr:hover .dynamic-form-textbox-multiline {
+    border-color: #00c0ff;
+}
+
+.dynamic-form-link, .dynamic-form-button-image {
+    /*
+display: inline-block;
+    position:relative;
+    left:25px;
+    top:3px;
+*/
+}
+
+div.FormPageContent span {
+    color: rgb(100,100,100);
+    font-size: 12px;
+    line-height: 1.5;
+    display: inline-block;
+    text-indent: 5px;
+}
+
+span.Error {
+    font-size: 12px;
+    color: rgb(200,00,00);
+    display: block;
+    margin: 2px auto;
+    padding: 0px 25px 0px 7px;
+    line-height: 1.8;
+    background: rgb(255,220,220) url(../../images/Alert.png) no-repeat 99% 4px;
+    text-align: justify;
+}
+
+#ViewPanel {
+    /*text-align:right;*/
+}
+
+.dynamic-form-textbox-caption:focus {
+    border: 1px #55d4ff solid;
+    color: rgb(100,100,100);
+    outline: none;
+    box-shadow: #55d4ff 0px 0px 5px;
+}
+
+a.PageNumber.LastPage {
+    background-image: url(../../images/paging-last-blue.png);
+    background-image: none;
+}
+
+input.FormButton:hover {
+    background: #5580ff;
+    color: #fff;
+    cursor: pointer;
+}
+
+div, p, span, ul, li, table.Part, table, tr, td {
+    margin: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    border-spacing: 0px;
+    -webkit-border: #ccc;
+    -moz-border: #ccc;
+    border: #ccc;
+}
+
+    div.border div.more a.More:hover {
+        color: rgb(140,140,140);
+        background: url(../../images/arrow-left.png) no-repeat 2px 75%;
+    }
+
+.dynamic-form-textbox-multiline:focus {
+    border: 1px #55d4ff solid;
+    color: rgb(100,100,100);
+    outline: none;
+    box-shadow: #55d4ff 0px 0px 5px;
+}
+
+
+
+td.dynamic-form-td table.dg th:first-child {
+    /* border-radius:0px;   */
+}
+
+table.AlphabeticSearch a {
+    display: block;
+    padding: 3px 2px 3px 2px;
+    font-size: 11px;
+    background: #e8e8e8;
+    color: rgb(100,100,100);
+    border-bottom: 1px solid #e8e8e8;
+}
+
+div.col.right, div.col.left {
+    width: 200px;
+    margin: 0px;
+}
+
+table.dg {
+    width: 98%;
+    margin: 0px auto;
+    border: none;
+    overflow: hidden;
+    border-spacing: 0px;
+    border-collapse: collapse;
+    /*border-radius:10px 10px 0px 0px;*/
+}
+
+    table.dg li.ListData .Title {
+        display: inline-block;
+    }
+
+.dynamic-form-textbox-datetime-georgian:focus {
+    border: 1px #55d4ff solid;
+    color: rgb(100,100,100);
+    outline: none;
+    box-shadow: #55d4ff 0px 0px 5px;
+}
+
+.dynamic-form-textbox-datetime.dynamic-form-textbox {
+    /*color: rgb(0, 0, 0);*/
+    /*  line-height: 2.5;    */
+    height: 20px;
+    border: 1px #ccc solid;
+    padding: 5px;
+    min-width: 100px;
+    display: inline-block;
+    margin: 4px 0px;
+    text-indent: 5px;
+    width: auto !important;
+    border-radius: 5px;
+    outline: none;
+    font-family: tahoma;
+    color: rgb(140,140,140);
+}
+
+table.dg tr div.FormPageHeader {
+    text-align: right;
+}
+
+tr.dynamic-form-tr:hover input {
+    border-color: #00c0ff;
+}
+
+div.col.center {
+    width: 560px;
+    margin: 0px 10px;
+}
+
+.center2col {
+    width: 768px;
+    margin-right: 10px;
+}
+
+table.dg tr th:last-child {
+    /*border-radius:20px 0px 0px 0px;*/
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px \9;
+    border-top-left-radius: 0px \9;
+    border-left: none;
+}
+
+div.FormPageContent legend {
+    font-size: 12px;
+    color: #0080ff;
+}
+
+a.PageNumber.NextPage {
+    background-image: url(../../images/paging-next-blue.png);
+    +background-image:none;
+}
+
+table.dg tr.DGAlt td:first-child {
+    border-right: none;
+}
+
+span.dynamic-form-filter-datetime-en input:focus {
+    border: 1px #55d4ff solid;
+    color: rgb(100,100,100);
+    outline: none;
+    box-shadow: #55d4ff 0px 0px 5px;
+}
+
+a.More {
+    font-family: tahoma;
+    font-size: 12px;
+    color: #0080ff;
+    line-height: 36px;
+    text-align: left;
+    display: inline-block;
+    padding: 0px 10px;
+    background: url(images/arrow-left-blue.png) no-repeat 5px 60%;
+    float: left;
+    padding-left: 15px;
+}
+
+    a.More:hover {
+        font-family: tahoma;
+        font-size: 12px;
+        color: rgb(140,140,140);
+        line-height: 36px;
+        text-align: left;
+        display: inline-block;
+        padding: 0px 10px;
+        background: url(../../images/arrow-left.png) no-repeat 2px 75%;
+        float: left;
+        padding-left: 15px;
+    }
+
+div.border div.title {
+    background-color: #555;
+    border-bottom: solid #00d4ff 5px;
+    color: #fff;
+}
+
+span.dynamic-form-filter-datetime-en span {
+    color: rgb(100,100,100);
+    display: inline-block;
+    width: 12px;
+    text-align: right;
+}
+
+.DGPage {
+    text-align: center;
+    background-color: rgb(210,210,210);
+}
+
+td.dynamic-form-td table.dg tr th:last-child {
+    /*border-radius:0px;   */
+}
+
+table.dg tr, table.dg tr:hover {
+    /*background:#008dff;*/
+}
+
+a {
+    text-decoration: none;
+}
+
+table.dg tr div.FormPageContent td {
+    text-align: right;
+    border: none;
+    line-height: auto;
+}
+
+a.PageNumber.PrevPage {
+    background-image: url(../../images/paging-prev-blue.png);
+    +background-image:none;
+}
+
+    a.PageNumber.PrevPage:hover {
+        background-position: bottom center;
+        background-image: url(../../images/paging-prev-blue.png);
+        +background-image:none;
+        background-repeat: no-repeat;
+    }
+
+td.dynamic-form-td table.dg {
+    border-radius: 0px;
+    vertical-align: middle;
+}
+
+span.dynamic-form-filter-datetime input {
+    color: rgb(0, 0, 0);
+    /*line-height: 2.5;    */
+    height: 20px;
+    border: 1px #ccc solid;
+    padding: 5px;
+    min-width: 100px;
+    display: inline-block;
+    margin: 4px 0px;
+    text-indent: 5px;
+    width: auto !important;
+    border-radius: 5px;
+    outline: none;
+    font-family: tahoma;
+    color: rgb(140,140,140);
+}
+
+table.dg tr div.FormPageContent td .FormCaption {
+    font-size: 11px;
+    font-weight: bold;
+    padding: auto;
+    margin: auto;
+    font-family: tahoma;
+}
+
+legend.dynamic-form-legend {
+    font-size: 12px;
+    color: #0080ff;
+}
+
+.dynamic-form-radiobutton-list {
+    padding: 5px 0px;
+    display: block;
+}
+
+input.dynamic-form-textbox {
+    color: rgb(140,140,140);
+    font-size: 12px;
+    line-height: 2.5;
+    height: 30px;
+    border: 1px #ccc solid;
+    padding: 0px;
+    /* min-width: 175px;*/
+    display: inline-block;
+    margin: 4px 0px;
+    text-indent: 5px;
+    width: 98% !important;
+    +width: 95% !important;
+    border-radius: 5px;
+}
+
+div#menu ul.cdd0_sub_menu li {
+    border-left: none !important;
+}
+
+table.dynamic-form-table {
+    margin: 0px auto;
+}
+
+.SearchButton a:hover {
+    background: #558dff;
+}
+
+div#menu {
+    width: 740px;
+    float: right;
+}
+
+table.dg th {
+    border: 1px solid #ccc;
+    border-top: none;
+    padding: 7px 0px;
+    background: rgb(0, 141, 255);
+}
+
+div#header {
+    background: #eeeeee;
+    min-height: 150px;
+}
+
+.SearchButton a {
+    display: block;
+    background: #008dff;
+    width: 36px;
+    height: 36px;
+}
+
+table.AlphabeticSearch a:hover {
+    display: block;
+    padding: 3px 2px 3px 2px;
+    font-size: 11px;
+    background: #fff;
+    color: #0084ff;
+    border-bottom: 1px solid #0080ff;
+}
+
+span.CurrentPage, a.PageNumber {
+    display: block;
+    padding: 3px 5px;
+    background: #e8e8e8;
+    margin: 2px;
+    color: #777;
+    line-height: 1;
+    font-size: 11px;
+    height: 10px;
+    border-bottom: 1px solid #ccc;
+    margin-top: 10px;
+    width: 10px;
+    text-align: center;
+}
+
+div#main {
+    margin: 10px auto;
+}
+
+td.dynamic-form-td table.dg span {
+    display: inline-block;
+    padding-right: 5px;
+}
+
+.DGPage a {
+    color: rgb(180,180,180);
+}
+
+table.dg tr.DGItem td:first-child {
+    border-right: none;
+}
+
+table.dg tr div.FormPageContent legend {
+    text-align: right;
+}
+
+table.dg td.FormField a {
+    color: #0080ff;
+}
+
+table.AlphabeticSearch td {
+    text-align: center;
+}
+
+div.border div.more a.More {
+    color: #0080ff;
+    background: url(../../images/arrow-left-blue.png) no-repeat 5px 60%;
+}
+
+div.container {
+    width: 980px;
+    margin: 0px auto;
+}
+
+a.PageNumber.LastPage:hover {
+    background-position: bottom center;
+    background-image: url(../../images/paging-last-blue.png);
+    +background-image:none;
+    background-repeat: no-repeat;
+}
+
+.SearchButtonSize {
+    width: 36px;
+    height: 36px;
+    background: url(../../images/icon-search.png) no-repeat center center;
+}
+
+span.dynamic-form-filter-datetime input:focus {
+    border: 1px #55d4ff solid;
+    color: rgb(100,100,100);
+    outline: none;
+    box-shadow: #55d4ff 0px 0px 5px;
+}
+
+/*.List ul, .List ul li {
+    list-style: none ;
+}*/
+
+a.PageNumber.NextPage:hover {
+    background-position: bottom center;
+    background-image: url(../../images/paging-next-blue.png);
+    +background-image:none;
+    background-repeat: no-repeat;
+}
+
+table.dg .Title, table.View .Title {
+    background: none;
+    padding: 0px;
+}
+
+.dynamic-form-textbox-multiline {
+    color: rgb(0, 0, 0);
+    line-height: 1.5;
+    border: 1px #ccc solid;
+    padding: 5px;
+    min-width: 100px;
+    min-height: 100px;
+    display: inline-block;
+    margin: 4px 0px;
+    width: 95% !important;
+    border-radius: 5px;
+    outline: none;
+    font-family: tahoma;
+    color: rgb(140,140,140);
+}
+
+.dynamic-form-fileupload {
+    color: rgb(0, 0, 0);
+    height: 22px;
+    border: 1px #ccc solid;
+    padding: 5px;
+    min-width: 100px;
+    display: inline-block;
+    margin: 4px 0px;
+    text-indent: 0px;
+    width: auto !important;
+    -webkit-border-radius: 5px;
+    outline: none;
+    font-family: tahoma;
+    color: rgb(140,140,140);
+    background: #fff;
+    margin-top: 10px;
+    direction: ltr;
+    line-height: 22px;
+}
+
+a.PageNumber.PrevPage, a.PageNumber.NextPage {
+    background-position: top center;
+    background-repeat: no-repeat;
+    text-indent: 100px;
+    +text-indent:0px;
+    overflow: hidden;
+}
+
+body {
+    background: #fff;
+}
+
+table.dg th:first-child {
+    border-top-right-radius: 10px;
+    border-top-right-radius: 0px \9;
+    border-top-left-radius: 10px \9;
+    border: none;
+}
+
+table.dg table.dg th {
+    border: 1px solid #ccc;
+    border-top: none;
+    padding: 7px 0px;
+    background: rgb(180, 180, 180);
+    border-radius: 0px !important;
+}
+
+span.dynamic-form-label-caption {
+    color: rgb(100,100,100);
+    font-size: 12px;
+    line-height: 1.5;
+    display: inline-block;
+    min-width: 85px;
+    text-indent: 5px;
+}
+
+input.dynamic-form-button-search {
+    border: none;
+    background: #0080ff;
+    color: #eee;
+    padding: 8px 15px;
+    margin: 5px 10px;
+    border-radius: 2px;
+}
+
+input.dynamic-form-button-search-delete {
+    border: none;
+    background: #0080ff;
+    color: red;
+    padding: 8px 15px;
+    margin: 5px 0;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+table.dg li.ListData span {
+    color: rgb(100,100,100);
+    font-size: 12px;
+    line-height: 1.5;
+    display: inline-block;
+    text-indent: 5px;
+}
+
+div#menu ul.cdd0_sub_menu {
+    background-color: rgb(230,230,230);
+}
+
+table.dg td ul {
+    /*list-style: none;*/
+    font-size: 12px;
+    color: rgb(120,120,120);
+    border: none;
+}
+
+div.FormPageContent fieldset {
+    border: rgb(230,230,230) 1px solid;
+    display: block;
+    margin: 5px;
+}
+
+span.Error br:first-child {
+    display: none;
+}
+
+.List .Summary {
+    /*display:none;*/
+}
+
+table.dg tr td:last-child {
+    border-left: none;
+    border-right: none;
+}
+
+span.dynamic-form-filter-datetime .FormButtonNoWidth {
+    position: relative;
+    left: 28px;
+    top: 11px;
+    +top:0px;
+    top: 12px \0/;
+    min-width: auto !important;
+    width: 16px !important;
+    height: auto;
+    box-shadow: none !important;
+    cursor: pointer;
+}
+
+.ListPicture .Picture {
+    padding: 3px 3px 3px 5px;
+}
+
+table.dg tr.DGItem:hover, table.dg tr.DGAlt:hover {
+    background: #e5e5e5;
+}
+
+div#menu a {
+    text-align: center !important;
+    line-height: 36px;
+    font-size: 15px !important;
+    color: rgb(102,102,102);
+}
+
+fieldset.dynamic-form-fieldset {
+    border: rgb(230,230,230) 1px solid;
+    display: block;
+    margin: 5px;
+}
+
+tr.dynamic-form-tr:hover select.dynamic-form-dropdown {
+    border-color: #00c0ff;
+}
+
+table.dg tr:hover div[id *=ObjectComment_Control_Output_Panel] {
+    height: auto;
+    background: url(../../images/minus.gif) no-repeat top right;
+}
+
+div#menu a.cdd0_sub_items {
+    text-align: center !important;
+    line-height: 24px;
+    font-size: 13px !important;
+    color: rgb(102,102,102);
+}
+
+table.dg tr.DGAlt {
+    background: #eaeaea;
+}
+
+a.PageNumber.FirstPage:hover {
+    background-position: bottom center;
+    background-image: url(../../images/paging-first-blue.png);
+    +background-image:none;
+    background-repeat: no-repeat;
+}
+
+td.dynamic-form-td table.dg a.Title {
+    display: inline-block;
+    min-height: 15px;
+}
+
+select.dynamic-form-dropdown:focus {
+    border: 1px #55d4ff solid;
+    color: rgb(100,100,100);
+    box-shadow: #55d4ff 1px 1px 5px;
+}
+
+.dynamic-form-td br {
+    display: none;
+}
+
+.NavigationBar span {
+    color: #555;
+    font-size: 12px;
+}
+
+.dg {
+    width: 100%;
+}
+
+.NavigationBar a {
+    line-height: 21px;
+    font-size: 12px !important;
+    color: #0080ff;
+    display: inline-block;
+}
+
+th.FormCaption, th.PartHeader {
+    color: #fff;
+    font-size: 12px;
+    line-height: 1.5;
+    text-align: center;
+    font-weight: normal;
+    border-color: #ccc;
+}
+
+.SearchText {
+    vertical-align: top;
+    font-family: tahoma;
+    font-size: 12px;
+    width: 100%;
+    height: 34px;
+    background: transparent;
+    color: #444;
+    text-indent: 5px;
+    line-height: 34px;
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid #c7c7c7;
+    border-left: none;
+    position: relative;
+    right: 1px;
+}
+
+.dynamic-form-textbox-datetime-georgian.dynamic-form-textbox {
+    color: rgb(0, 0, 0);
+    /*line-height: 2.5;    */
+    height: 20px;
+    border: 1px #ccc solid;
+    padding: 5px;
+    min-width: 100px;
+    display: inline-block;
+    margin: 4px 0px;
+    text-indent: 5px;
+    width: auto !important;
+    border-radius: 5px;
+    outline: none;
+    font-family: tahoma;
+    color: rgb(140,140,140);
+}
+
+.Title:hover {
+    color: rgb(50,50,50);
+}
+
+table.dg li.ListData {
+    text-align: right;
+}
+
+[dir=ltr] div#ViewPanel {
+    text-align: left;
+}
+
+select.dynamic-form-dropdown {
+    color: rgb(0, 0, 0);
+    line-height: 2.5;
+    height: 35px !important;
+    border: 1px #ccc solid;
+    padding: 5px;
+    min-width: 175px;
+    display: inline-block;
+    margin: 4px 1px;
+    text-indent: 5px;
+    width: 98% !important;
+    +width: 95% !important;
+    border-radius: 5px;
+    outline: none;
+    font-family: tahoma;
+    color: rgb(140,140,140);
+    -moz-padding-end: 10px;
+}
+
+span.dynamic-form-filter-datetime span {
+    color: rgb(100,100,100);
+    display: inline-block;
+    width: 12px;
+    text-align: right;
+}
+
+.Title:hover .HeadLine {
+    color: rgb(111, 183, 255);
+}
+
+.Title {
+    font-size: 12px;
+    font-family: tahoma;
+    line-height: 18px;
+    /*display: block;*/
+    text-align: right;
+    color: rgb(120,120,120);
+    padding-bottom: 5px;
+    padding-right: 20px;
+    background: url(../../images/arrow-left.png) 95% center no-repeat;
+}
+
+td.dynamic-form-td:hover {
+    background: #ddf8ff;
+    padding: 5px auto;
+}
+
+input.dynamic-form-button-search:hover {
+    background: #5580ff;
+    color: #fff;
+    cursor: pointer;
+}
+
+input.dynamic-form-button-search-delete:hover {
+    background: #5580ff;
+    color: red;
+    cursor: pointer;
+}
+
+table.dg tr.DGItem td:last-child {
+    border-left: none;
+}
+
+div.col {
+    display: block;
+    float: right;
+    background-color: #f5f5f5;
+    min-height: 50px;
+}
+
+div#menu a.cdd0_sub_items_rollover {
+    text-align: center !important;
+    line-height: 24px;
+    font-size: 13px !important;
+    color: rgb(245,245,245) !important;
+    background: #008dff !important;
+}
+
+span.FormTitle, .dg span.FormCaption {
+    font-family: arial;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 23px;
+    text-indent: 10px;
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(120,120,120);
+    margin-top: 15px;
+}
+
+.FormButtonNoWidth, .ui-datepicker-trigger {
+    position: relative;
+    left: 23px;
+    top: 2px;
+    +top:-8px;
+    top: -1px \0/;
+    cursor: pointer;
+}
+
+label {
+    line-height: 2;
+    font-size: 12px;
+    color: rgb(140,140,140);
+    text-indent: 5px;
+    display: inline-block;
+}
+
+.dynamic-form-textbox-caption.dynamic-form-textbox {
+    color: rgb(140,140,140);
+    font-size: 12px;
+    line-height: 3;
+    height: 30px;
+    +height:31px;
+    +line-height: 3;
+    height: 28px \0/;
+    line-height: 2.2 \0/;
+    border: 1px #ccc solid;
+    padding: 2px;
+    min-width: 175px;
+    display: inline-block;
+    margin: 4px 0px;
+    text-indent: 5px;
+    width: 61% !important;
+    +width: 70% !important;
+    border-radius: 5px;
+}
+
+.HeadLine {
+    font-size: 12px;
+    display: block;
+    line-height: 18px;
+    font-family: arial;
+    color: #0080ff;
+}
+
+.NavigationBar a:hover {
+    color: #555;
+}
+
+div#menu ul.cdd0_main_menu li {
+    border-left: 1px solid #e5e5e5;
+}
+
+[dir=rtl] div#ViewPanel {
+    text-align: right;
+}
+
+input.FormButton {
+    border: none;
+    background: #0080ff;
+    color: #eee;
+    padding: 8px 15px;
+    margin: 5px 10px;
+    border-radius: 2px;
+}
+    input.FormButton:disabled {
+        border: none;
+        background-color: rgb(134, 134, 134) !important;
+        cursor: default !important;
+    }
+
+span.CurrentPage {
+    background: #008dff;
+    color: #fff;
+}
+
+div#menu a.cdd_main_items_rollover, div#menu a.iactive {
+    background: #008dff !important;
+    color: rgb(245,245,245) !important;
+}
+
+div.footer_box {
+    float: right;
+    width: 183px;
+    margin-right: 10px;
+}
+
+div.fixer {
+    clear: both;
+    height: 0px;
+    width: 100%;
+    overflow: hidden;
+}
+
+hr {
+    border-collapse: separate !important;
+    width: auto !important;
+}
+
+a.PageNumber.FirstPage {
+    background-image: url(../../images/paging-first-blue.png);
+    +background-image:none;
+}
+
+span.RequiredStar {
+    background: url(../../images/star.png) right center no-repeat;
+    text-indent: 10px;
+    overflow: hidden;
+    /*display: inline-block;*/
+    width: 10px;
+}
+
+a.PageNumber.FirstPage, a.PageNumber.LastPage {
+    background-position: top center;
+    background-repeat: no-repeat;
+    text-indent: 100px;
+    +text-indent:0px;
+    overflow: hidden;
+}
+
+span.CurrentPage:hover, a.PageNumber:hover {
+    padding: 3px 5px;
+    background: rgb(245, 245, 245);
+    color: #0084ff;
+    cursor: pointer;
+}
+
+.dynamic-form-textbox-datetime:focus {
+    border: 1px #55d4ff solid;
+    color: rgb(100,100,100);
+    outline: none;
+    box-shadow: #55d4ff 0px 0px 5px;
+}
+
+span[id *=FormWizard_FinishLabel] {
+    background: #aaffaa url(../../images/Success.png) right center no-repeat;
+    color: #282;
+    font-size: 12px;
+    display: block;
+    padding-right: 24px;
+    margin: 3px;
+    line-height: 2;
+}
+
+.DGPage span {
+    padding: 3px;
+    color: #0080ff;
+}
+
+span.dynamic-form-filter-datetime-en .ui-datepicker-trigger {
+    +top:-8px;
+    top: 4px \0/ !important;
+}
+
+.NavigationBar {
+    vertical-align: middle;
+}
+
+td.dynamic-form-td table.dg li.ListData br {
+    display: inline-block;
+}
+
+input.dynamic-form-textbox:focus {
+    border: 1px #55d4ff solid;
+    color: rgb(100,100,100);
+    outline: none;
+    box-shadow: #55d4ff 0px 0px 5px;
+}
+
+div#footer {
+    background: #f5f5f5;
+    min-height: 100px;
+}
+
+div#search {
+    width: 200px;
+    float: left;
+}
+
+div#menu-search {
+    background: #f5f5f5;
+    min-height: 36px;
+}
+
+span.dynamic-form-filter-datetime-en input {
+    color: rgb(0, 0, 0);
+    /*    line-height: 2.5;    */
+    height: 20px;
+    border: 1px #ccc solid;
+    padding: 5px;
+    min-width: 100px;
+    display: inline-block;
+    margin: 4px 0px;
+    text-indent: 5px;
+    width: auto !important;
+    border-radius: 5px;
+    outline: none;
+    font-family: tahoma;
+    color: rgb(140,140,140);
+}
+
+table.dg tr div[id *=ObjectComment_Control_Output_Panel] {
+    height: 10px;
+    overflow-y: hidden;
+    padding-right: 16px;
+    background: url(../../images/plus.gif) no-repeat top right;
+    border: 1px dashed #ccc;
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+    margin: 5px 0px;
+}
+
+table.dg tr.DGItem {
+    background: #efefef;
+}
+
+.directionUpdateProgressRate {
+    float: right;
+}
+
+.directionRate {
+    float: right;
+}
+
+.Comment_lable_result {
+    color: red !important;
+}
+
+.tbl_CommentSend .Comment_input, .tbl_CommentSend textarea {
+    color: rgb(140,140,140);
+    font-size: 12px;
+    line-height: 2.5;
+    height: 30px;
+    border: 1px #ccc solid;
+    padding: 0px;
+    display: inline-block;
+    margin: 4px 0px;
+    text-indent: 5px;
+    width: 98% !important;
+    border-radius: 5px;
+}
+
+.div_Comment_RateControl span, .tbl_CommentSend span {
+    color: rgb(100,100,100);
+    font-size: 12px;
+}
+
+
+.divCommentRepeater {
+    border-bottom: dotted 1px #ccc;
+}
+
+.tbl_CommentSend .classCommentTitle span {
+    display: block;
+    background: #eee;
+    color: #0080ff;
+    line-height: 1.5;
+    padding-bottom: 5px;
+    text-indent: 5px;
+    border-bottom: solid 1px #0080ff;
+}
+
+.tbl_CommentSend span {
+    line-height: 1.5;
+    padding-bottom: 10px;
+}
+
+.tbl_CommentSend [id *= "CaptchaControlSend_CaptchaImage"] {
+    border-radius: 5px;
+    overflow: hidden;
+    border: 1px solid #ccc !important;
+    padding: 0px;
+}
+
+.tbl_CommentSend [id *= "CaptchaControlReply_CaptchaImage"] {
+    border-radius: 5px;
+    overflow: hidden;
+    border: 1px solid #ccc !important;
+    padding: 0px;
+}
+
+.tbl_CommentSend .InputTextBox {
+    color: rgb(140,140,140);
+    font-size: 12px;
+    line-height: 2.5;
+    height: 30px;
+    border: 1px #ccc solid;
+    padding: 0px;
+    display: inline-block;
+    margin: 4px 0px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+    .tbl_CommentSend .Comment_input:focus, .tbl_CommentSend textarea:focus, .tbl_CommentSend .InputTextBox:focus {
+        border: 1px #55d4ff solid;
+        color: rgb(100,100,100);
+        outline: none;
+        box-shadow: #55d4ff 0px 0px 5px;
+    }
+/* begin comments */
+.divCommentRepeater * {
+    font-size: 11px;
+    line-height: 2;
+    color: #555;
+}
+
+
+.Comment_Button {
+    border: none;
+    background: #0080ff;
+    color: #eee;
+    padding: 8px 15px;
+    margin: 5px 10px;
+    border-radius: 2px;
+}
+
+    .Comment_Button:hover {
+        background: #5580ff;
+        color: #fff;
+        cursor: pointer;
+    }
+
+
+
+.divCommentRepeater > div > div {
+    background: #eee;
+}
+
+.divCommentRepeater .Comment_divHeaderName {
+    background: #fff;
+    /*border-radius: 0px 5px 5px 0px;
+    margin: 3px 3px 3px 1px;
+    text-indent: 5px;*/
+    margin-right: 2px;
+    height: 20px;
+}
+
+.Comment_divHeaderDate {
+    background: #fff;
+    /*border-radius: 5px 0px 0px 5px;*/
+    /*margin: 3px 1px 3px 1px;*/
+    text-align: center;
+    direction: rtl;
+    text-indent: 0px;
+    margin-right: 2px;
+    margin-left: 2px;
+    height: 20px;
+    overflow-y: hidden;
+}
+
+.Comment_error {
+    display: inline-block;
+    color: red;
+}
+
+.Comment_Reply {
+    background: none;
+}
+
+.divCommentRepeater .Comment_Reply a {
+    display: block;
+    background: #fff;
+    text-align: center;
+    margin: 5px;
+    /*border-radius: 3px;*/
+    height: 20px;
+    color: #000;
+    font-size: 11px;
+}
+
+    .divCommentRepeater .Comment_Reply a:hover {
+        color: #777;
+    }
+
+a.Comment_Negative, a.Comment_Positive {
+    display: inline-block;
+    width: 26px;
+    height: 26px;
+}
+
+    a.Comment_Negative img, a.Comment_Positive img {
+        display: none;
+    }
+
+.Comment_tdNegative > div, .Comment_tdPositive > div {
+    /*color: #fff;*/
+}
+
+.Comment_tdPositive {
+    background: url('../../comment/image/commentbg-pos.png') no-repeat center left;
+}
+
+    .Comment_tdPositive div {
+        color: blue;
+        text-align: right !important;
+        float: left;
+        padding-bottom: 2px;
+    }
+
+.Comment_tdNegative {
+    background: url('../../comment/image/commentbg-neg.png') no-repeat center left;
+}
+
+    .Comment_tdNegative div {
+        color: rgb(200, 2, 2);
+        text-align: right !important;
+        float: left;
+        padding-bottom: 2px;
+    }
+/*.Comment_tdPositive {
+    background: url('images/comment-positive.png') no-repeat 50% 0px;
+}
+
+.Comment_tdNegative {
+    background: url('images/comment-negative.png') no-repeat 50% 0%;
+}*/
+
+/*.Comment_tdPositive:hover {
+    background-position: 50% 100%;
+}
+
+.Comment_tdNegative:hover {
+    background-position: 50% 100%;
+}*/
+
+.tbl_CommentSend {
+    margin: 0px auto;
+}
+
+    .tbl_CommentSend .RefreshStyle {
+        background: url('images/icon-refresh.png') no-repeat 50% 50% #008dff !important;
+        cursor: pointer;
+        opacity: 0.85;
+        border-radius: 20px;
+        width: 16px !important;
+        height: 16px !important;
+    }
+
+        .tbl_CommentSend .RefreshStyle:hover {
+            opacity: 1.0;
+        }
+/*-----------HitCount*/
+/*MKK/930617/908/change hitcount default ui*/
+.HitCounters {
+    width: 55%;
+    text-align: right;
+    font-size: 8.5pt;
+    line-height: 1.5;
+    padding-right: 18px;
+    height: 20px;
+    padding-bottom: 6px;
+}
+
+.HitCounters_Hit {
+    width: 35%;
+    text-align: left;
+    font-size: 8pt;
+    line-height: 1.5;
+    height: 20px;
+    color: rgb(200,00,00);
+}
+
+.PageCounter {
+    background-image: url('images/hitcount-6.png');
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.SiteCounter {
+    background-image: url('images/hitcount-3.png');
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.SubportalCounter {
+    background-image: url('images/hitcount-4.png');
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+
+.SubportalTodayCounter {
+    background-image: url('images/hitcount-1.png');
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+
+.TodayCount {
+    background-image: url('images/hitcount-8.png');
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+
+.TodayPageCount {
+    background-image: url('images/hitcount-7.png');
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+
+.RssCount {
+    background-image: url('images/hitcount-9.png');
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+
+.TodayRssCount {
+    background-image: url('images/hitcount-2.png');
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+/*SEARCH PAGE*/
+
+.PnlSearchSetting {
+    width: 400px;
+    display: none;
+    position: absolute;
+    border: 1px solid #6b6b6b;
+    background-color: #e5e5e5;
+    height: auto;
+    padding: 12px 8px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    z-index: 100;
+}
+
+
+.SearchPicture {
+    border-top-width: 0;
+    width: 90px;
+}
+
+.search-keyword1 {
+    background-color: #3399CC;
+}
+
+.SearchTitle {
+    color: #2e2e2e;
+    padding-bottom: 4px;
+    border-bottom: 1px solid;
+    font-weight: bold;
+}
+
+.div_PanelSearch {
+    background-color: rgb(238, 238, 238);
+    overflow: auto;
+    padding: 4px;
+    margin: 4px;
+}
+
+.SearchVideoTitle {
+    font-weight: bold;
+}
+
+.SearchArchiveTitle {
+    color: #2e2e2e;
+    padding-bottom: 4px;
+    font-weight: bold;
+    border-bottom-width: 1px;
+}
+
+.SearchAllTotalFound {
+    font-family: tahoma;
+}
+
+.search-keyword3 {
+    background-color: red;
+}
+
+.SearchDate {
+    font-family: tahoma;
+    color: rgb(71, 152, 255);
+    font-size: 8pt;
+}
+
+.SearchDataList_Picturediv {
+    width: 120px;
+    margin: 2px;
+    background-color: #ffffff;
+    padding: 3px;
+}
+
+.pnlContentSearch {
+    padding: 5px;
+}
+
+.Search_PictureItemStyle {
+    width: 120px;
+    display: inline-block;
+}
+
+.SearchFormField {
+    font-family: tahoma;
+    width: 80%;
+}
+
+.search-keyword2 {
+    background-color: yellow;
+}
+
+.SearchedButton {
+    font-size: 10pt;
+    border-color: #558dff;
+    background-color: #558dff;
+    height: 25px;
+    max-width: 300px;
+    color: #ffffff;
+    border: 0px none;
+}
+
+.divSearch_DataInGrid {
+    float: right;
+}
+
+.SearchSummary {
+    font-family: tahoma;
+}
+
+.divSearchSetting {
+    width: 390px;
+    display: none;
+    position: absolute;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    overflow: auto;
+    height: auto;
+    max-height: 250px;
+}
+
+.search-keyword {
+    font-weight: bold;
+}
+
+.SearchFormCaption {
+    font-family: tahoma;
+    font-weight: Bold;
+}
+
+.divSearch_ImgGrid {
+    float: left;
+    border: 1px solid rgb(45, 146, 255);
+}
+
+.SearchLink {
+    font-family: tahoma;
+    color: red;
+}
+
+.Search_VideoItemStyle {
+    width: 120px;
+    display: inline-block;
+}
+
+.headerSearchSetting {
+    width: 390px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    margin-top: 5px;
+}
+
+.divSearch_BodyGrid {
+    overflow: auto;
+    background-color: rgb(248, 248, 248);
+    padding: 5px;
+}
+
+.Search_AlbumContainer {
+    border: 1px solid #cacaca;
+}
+
+.Search_FilmContainer {
+    border: 1px solid #cacaca;
+}
+
+.search_resultnotfound {
+    color: red;
+}
+/*SEARCH PAGE*/
+
+
+.Pagetoolbox {
+    list-style: none;
+    font-size: 12px;
+    font-family: tahoma;
+    line-height: 18px;
+    text-align: right;
+    color: rgb(120,120,120);
+    padding-bottom: 5px;
+    padding-right: 9px;
+    background: url(../../images/arrow-left.png) right center no-repeat;
+}
+
+    .Pagetoolbox .HitCounter span {
+        padding-right: 20px;
+    }
+
+.SendToFriendButton {
+    border: none;
+    font-family: tahoma !important;
+    padding: 6px;
+    background-color: gray;
+    color: white;
+}
+
+.dynamic-form-ShowFileLinkPanel {
+    display: inline-block;
+}
